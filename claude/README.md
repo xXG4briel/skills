@@ -10,7 +10,7 @@ Skills pessoais para o Claude Code, uma pasta por skill (`<nome>/SKILL.md`).
 | `avaliar-aplicativo-escala` | Comparativo com concorrentes e plano de crescimento |
 | `analise-seguranca` | Análise defensiva de segurança (estática) |
 | `fazer-pentest` | Pentest white-box autorizado (somente leitura) |
-| `testar-com-personas` | Teste pré-lançamento com usuários simulados (personas diversas navegando no app) |
+| `testar-com-personas` | Validação pré-lançamento com população simulada de personas (descoberta, uso, preço, conversa social, retorno) e recomendação de lançar, ajustar ou segurar |
 
 ## Instalar (linkar na pasta global)
 
